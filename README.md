@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiranreddy-2502
-- 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning WebDevelopment,python
+- 👀 I’m interested in WebDevelopment,Software Developer
+- 🌱 I’m currently learning WebDevelopment,python,Java
 - 💞️ I’m looking to collaborate with people who works on WebDevelopment,python projects.
 - 📫 How to reach me mail: akkr9640@gmail.com
 
